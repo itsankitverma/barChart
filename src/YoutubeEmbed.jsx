@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactPlayer from 'react-player'
-import "../App.css"
+import "./App.css"
 
 function YoutubeEmbeded() {
     return (
